@@ -63,7 +63,7 @@ let var3 = espectadores.filter(function(x){
         return x;
     }
 });
-// console.log("A quantidade de pessoas que responderam regular é "+var3.length);  retornando a quantidade de pessoas que responderam regular (.length = somatória)
+// console.log("A quantidade de pessoas que responderam regular é "+var3.length); retornando a quantidade de pessoas que responderam regular (.length = somatória)
 
 
 // 3
